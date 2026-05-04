@@ -3,7 +3,7 @@
 		"alwaysallowtaming": [
 			"/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP_C",
 			"/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
-			"/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP_C",
+			"/Game/Extinction/Dinos/Mek/Mek_Cfrhoharacter_BP.Mek_Character_BP_C",
 			"/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
 			"/Game/Packs/Steampunk/Dinos/HelperBot/HelperBot_Character_BP.HelperBot_Character_BP_C",
 			"/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP_C",
