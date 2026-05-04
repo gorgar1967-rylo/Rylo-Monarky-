@@ -1,7 +1,6 @@
 {
 	"DinoDipConfig": {
 		"alwaysallowtaming": [
-			"/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP_C",
 			"/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
 			"/Game/Extinction/Dinos/Mek/Mek_Cfrhoharacter_BP.Mek_Character_BP_C",
 			"/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
@@ -22,7 +21,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
+						"dino": "/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -83,7 +82,7 @@
 						"chancetodrop": 0.95
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/Camelsaurus/camelsaurus_Character_BP.camelsaurus_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP_C",
 						"chancetodrop": 0.95
 					},
 					{
@@ -107,7 +106,7 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/TerrorBird/TerrorBird_BP.TerrorBird_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_BP.TerrorBird_BP_C",
 						"chancetodrop": 0.9
 					},
 					{
@@ -164,7 +163,7 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
+						"dino": "/Game//PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP_C",
 						"chancetodrop": 0.6
 					},
 					{
@@ -262,7 +261,7 @@
 			{
 				"weekforoptions": [
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP_C",
 						"chancetodrop": 0.4
 					},
 					{
@@ -298,11 +297,11 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
+						"dino": "/Game/Abyss/Dinos/Rift/Beaver_Character_BP_Rift.Beaver_Character_BP_Rift_C",
 						"chancetodrop": 0.3
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison_C",
+						"dino": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
 						"chancetodrop": 0.3
 					},
 					{
@@ -310,7 +309,7 @@
 						"chancetodrop": 0.3
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
+						"dino": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP_C",
 						"chancetodrop": 0.3
 					},
 					{
@@ -375,7 +374,7 @@
 						"chancetodrop": 0.4
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
+						"dino": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA_C",
 						"chancetodrop": 0.3
 					},
 					{
