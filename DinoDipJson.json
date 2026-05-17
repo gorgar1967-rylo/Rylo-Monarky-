@@ -163,11 +163,11 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game//PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP_C",
 						"chancetodrop": 0.8
 					},
 					{
-						"dino": "Blueprint'/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
 						"chancetodrop": 0.8
 					},
 					{
